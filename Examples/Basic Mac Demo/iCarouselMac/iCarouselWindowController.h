@@ -13,8 +13,8 @@
 @interface iCarouselWindowController : NSWindowController <iCarouselDataSource, iCarouselDelegate>
 {
     iCarousel *carousel;
-    BOOL wrap;
     NSMutableArray *items;
+    BOOL wrap;
 }
 
 @property (nonatomic, retain) IBOutlet iCarousel *carousel;
