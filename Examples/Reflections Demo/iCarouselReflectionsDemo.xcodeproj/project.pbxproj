@@ -16,7 +16,7 @@
 		0148359413A36C3700E687AC /* iCarouselExampleAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0148358D13A36C3700E687AC /* iCarouselExampleAppDelegate.m */; };
 		0148359513A36C3700E687AC /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0148358F13A36C3700E687AC /* MainWindow.xib */; };
 		0148359613A36C3700E687AC /* iCarouselExampleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0148359113A36C3700E687AC /* iCarouselExampleViewController.xib */; };
-		017C5F9014AF06FF005345D0 /* ReflectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 017C5F8F14AF06FF005345D0 /* ReflectionView.m */; };
+		7B6167761528614E00A1AC01 /* ReflectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B6167731528613300A1AC01 /* ReflectionView.m */; };
 		B29BD7B814A3476C00BB4E68 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = B29BD7B614A3476C00BB4E68 /* background.png */; };
 		B29BD7B914A3476C00BB4E68 /* page.png in Resources */ = {isa = PBXBuildFile; fileRef = B29BD7B714A3476C00BB4E68 /* page.png */; };
 		B2E5E749146155E300EADB7A /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E5E748146155E300EADB7A /* iCarousel.m */; };
@@ -37,9 +37,9 @@
 		0148358E13A36C3700E687AC /* iCarouselExampleAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarouselExampleAppDelegate.h; sourceTree = SOURCE_ROOT; };
 		0148359013A36C3700E687AC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = SOURCE_ROOT; };
 		0148359213A36C3700E687AC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/iCarouselExampleViewController.xib; sourceTree = SOURCE_ROOT; };
-		017C5F8E14AF06FF005345D0 /* ReflectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReflectionView.h; sourceTree = "<group>"; };
-		017C5F8F14AF06FF005345D0 /* ReflectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReflectionView.m; sourceTree = "<group>"; };
 		018BBCB413A375AF005CA505 /* iCarouselReflectionsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iCarouselReflectionsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B6167721528613300A1AC01 /* ReflectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ReflectionView.h; path = ReflectionView/ReflectionView.h; sourceTree = "<group>"; };
+		7B6167731528613300A1AC01 /* ReflectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ReflectionView.m; path = ReflectionView/ReflectionView.m; sourceTree = "<group>"; };
 		B29BD7B614A3476C00BB4E68 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		B29BD7B714A3476C00BB4E68 /* page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page.png; sourceTree = "<group>"; };
 		B2E5E747146155E300EADB7A /* iCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
@@ -64,7 +64,8 @@
 		01308D8313491C3500453707 = {
 			isa = PBXGroup;
 			children = (
-				017C5F8D14AF06FF005345D0 /* ReflectionView */,
+				7B6167721528613300A1AC01 /* ReflectionView.h */,
+				7B6167731528613300A1AC01 /* ReflectionView.m */,
 				B2E5E746146155E300EADB7A /* iCarousel */,
 				01308D9813491C3500453707 /* iCarouselExample */,
 				B29BD7B514A3476C00BB4E68 /* Resources */,
@@ -115,16 +116,6 @@
 				0148358613A36C2000E687AC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		017C5F8D14AF06FF005345D0 /* ReflectionView */ = {
-			isa = PBXGroup;
-			children = (
-				017C5F8E14AF06FF005345D0 /* ReflectionView.h */,
-				017C5F8F14AF06FF005345D0 /* ReflectionView.m */,
-			);
-			name = ReflectionView;
-			path = ../../../ReflectionView/ReflectionView;
 			sourceTree = "<group>";
 		};
 		B29BD7B514A3476C00BB4E68 /* Resources */ = {
@@ -211,11 +202,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B6167761528614E00A1AC01 /* ReflectionView.m in Sources */,
 				0148358813A36C2000E687AC /* main.m in Sources */,
 				0148359313A36C3700E687AC /* iCarouselExampleViewController.m in Sources */,
 				0148359413A36C3700E687AC /* iCarouselExampleAppDelegate.m in Sources */,
 				B2E5E749146155E300EADB7A /* iCarousel.m in Sources */,
-				017C5F9014AF06FF005345D0 /* ReflectionView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

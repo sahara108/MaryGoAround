@@ -1148,6 +1148,7 @@ NSComparisonResult compareViewDepth(UIView *view1, UIView *view2, iCarousel *sel
 	}
     
     //get number of items and placeholders
+//    numberOfItems = dataSource.numberOfItemsInCarousel;
     numberOfItems = [dataSource numberOfItemsInCarousel:self];
     if ([dataSource respondsToSelector:@selector(numberOfPlaceholdersInCarousel:)])
     {

@@ -82,6 +82,7 @@
 		[[NSRunLoop currentRunLoop] runUntilDate:[NSDate dateWithTimeIntervalSinceNow:fadeInterval]];
 	} /* end for */
 } 
+
 - (void) fadeInDisplay:(CGDirectDisplayID)display fadeTime:(double)fadeTime {
 	int		fadeSteps 		= 256, 	step;
 	double 	fadeInterval	= (fadeTime / (double) fadeSteps), fade;

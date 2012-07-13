@@ -1,0 +1,319 @@
+TiCarouselMac
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Info.plist" iCarouselMac/iCarouselMac-Info.plist
+cProcessPCH /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac" normal x86_64
+cCopyStringsFile "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings" iCarouselMac/en.lproj/InfoPlist.strings
+cCpResource iCarouselMac/en.lproj/Credits.rtf build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib"
+cCpResource iCarouselMac/../../Resources/background.png build/Debug/iCarouselMac.app/Contents/Resources/background.png
+cCpResource iCarouselMac/../../Resources/page.png build/Debug/iCarouselMac.app/Contents/Resources/page.png
+cTouch "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004F4B6EAD0000000000002470
+t1330343597
+s9328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F4B6EB000000000000462E0
+t1330343600
+s287456
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.h
+c000000004F5153E5000000000000242D
+t1330729957
+s9261
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m
+c000000004F5153E5000000000000ED56
+t1330729957
+s60758
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app
+t1330731811
+s102
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Info.plist
+t1330731807
+s1325
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac
+t1330731810
+s130496
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/PkgInfo
+t1330731807
+s8
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/background.png
+t1330731810
+s6661
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+t1330731810
+s436
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1330731810
+s92
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/MainMenu.nib
+t1330731810
+s32883
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/page.png
+t1330731810
+s7630
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o
+t1330731809
+s186088
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMac.LinkFileList
+c000000004F515B1F0000000000000295
+t1330731807
+s661
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o
+t1330731808
+s33784
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o
+t1330731808
+s56924
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.o
+t1330731808
+s2848
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/../../Resources/background.png
+c000000004F5153E50000000000001A05
+t1330729957
+s6661
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/../../Resources/page.png
+c000000004F5153E50000000000001DCE
+t1330729957
+s7630
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/Credits.rtf
+c000000004F5153E400000000000001B4
+t1330729956
+s436
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/InfoPlist.strings
+c000000004F5153E4000000000000002D
+t1330729956
+s45
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib
+c000000004F5153E4000000000002D47D
+t1330729956
+s185469
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMac-Prefix.pch
+c000000004F5153E4000000000000009B
+t1330729956
+s155
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.h
+c000000004F5153E400000000000001B8
+t1330729956
+s440
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m
+c000000004F5153E4000000000000020C
+t1330729956
+s524
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.h
+c000000004F5153E40000000000000279
+t1330729956
+s633
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m
+c000000004F5153E4000000000000167A
+t1330729956
+s5754
+
+N/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.m
+c000000004F5153E40000000000000104
+t1330729956
+s260
+
+N/var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.pth
+t1330731808
+s11484016
+
+NiCarouselMac/iCarouselMac-Info.plist
+c000000004F5153E400000000000003E8
+t1330729956
+s1000
+
+CBuild AST from "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m"
+r0
+
+CBuild AST from "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m"
+r0
+
+CBuild AST from "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m"
+r0
+
+CBuild AST from "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa72536d6bd01b541^556b49d6bd01b541^---0#1#0#--18"Check dependencies36"627953D2-19F0-4949-8BF3-64D0177FF7C3-
+
+CCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352424608.770723
+e352424609.008837
+r1
+xCompileC
+xbuild/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m4772c5a09201b541^4a4202a19201b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/../../iCarousel/iCarousel.m0000000000000000^3362"CompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o ../../iCarousel/iCarousel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/include" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources/x86_64" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources" "-F/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.d" --serialize-diagnostics "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.dia" -c "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m" -o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o"36"AB0A4AAF-D288-40B4-9E9A-37B3DEA119FD-
+
+CCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352424608.770705
+e352424608.847236
+r1
+xCompileC
+xbuild/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m5b7dc5a09201b541^d1e6d8a09201b541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselMacAppDelegate.m0000000000000000^3440"CompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o iCarouselMac/iCarouselMacAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/include" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources/x86_64" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources" "-F/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.d" --serialize-diagnostics "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.dia" -c "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m" -o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o"36"0321F775-7F87-480D-B9B6-9D6DC6DC62E0-
+
+CCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352424608.770751
+e352424608.919979
+r1
+xCompileC
+xbuild/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.me17dc5a09201b541^b681eba09201b541^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselWindowController.m0000000000000000^3452"CompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o iCarouselMac/iCarouselWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/include" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources/x86_64" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources" "-F/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.d" --serialize-diagnostics "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.dia" -c "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m" -o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o"36"5590FF31-3397-43DE-B920-2E65651A2301-
+
+CCompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352424608.770475
+e352424608.822904
+r1
+xCompileC
+xbuild/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.o
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.me86cc5a09201b541^00acd2a09201b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/main.m0000000000000000^3326"CompileC build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.o iCarouselMac/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/include" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources/x86_64" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources" "-F/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.dia" -c "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/main.m" -o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/main.o"36"CB9FA777-0389-45CD-B61F-BDB855DBE9ED-
+
+CCompileXIB "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib"
+s352424610.343657
+e352424610.988391
+r1
+xCompileXIB
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xiba01558a29201b541^3107fda29201b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/en.lproj/MainMenu.xib0000000000000000^722"CompileXIB iCarouselMac/en.lproj/MainMenu.xib    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/MainMenu.nib" "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk36"179C668F-6776-4858-A372-EE9BEDBA4BEC-
+
+CCopyStringsFile "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings" iCarouselMac/en.lproj/InfoPlist.strings
+s352424610.343577
+e352424610.352521
+r1
+xCopyStringsFile
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings
+xiCarouselMac/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy iCarouselMac/en.lproj/InfoPlist.strings310c58a29201b541^463f5aa29201b541^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/en.lproj/InfoPlist.strings0000000000000000^482"CopyStringsFile build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings iCarouselMac/en.lproj/InfoPlist.strings    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj" -- iCarouselMac/en.lproj/InfoPlist.strings36"582C8C50-67ED-4D9B-AFC8-0ED8E67AB2BA-
+
+CCpResource iCarouselMac/../../Resources/background.png build/Debug/iCarouselMac.app/Contents/Resources/background.png
+s352424610.344094
+e352424610.350601
+r1
+xCpResource
+xiCarouselMac/../../Resources/background.png
+xbuild/Debug/iCarouselMac.app/Contents/Resources/background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/iCarouselMac.app/Contents/Resources/background.png802858a29201b541^83c159a29201b541^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/build/Debug/iCarouselMac.app/Contents/Resources/background.png000000000080d041^665"CpResource iCarouselMac/../../Resources/background.png build/Debug/iCarouselMac.app/Contents/Resources/background.png    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/../../Resources/background.png" "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources"36"2D28AFE1-F483-48A5-BEE7-DF4E2C1253B3-
+
+CCpResource iCarouselMac/../../Resources/page.png build/Debug/iCarouselMac.app/Contents/Resources/page.png
+s352424610.344121
+e352424610.351545
+r1
+xCpResource
+xiCarouselMac/../../Resources/page.png
+xbuild/Debug/iCarouselMac.app/Contents/Resources/page.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug/iCarouselMac.app/Contents/Resources/page.png5a2958a29201b541^1eff59a29201b541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/build/Debug/iCarouselMac.app/Contents/Resources/page.png000000000080d041^647"CpResource iCarouselMac/../../Resources/page.png build/Debug/iCarouselMac.app/Contents/Resources/page.png    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/../../Resources/page.png" "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources"36"FCD4BA62-C810-4169-BDFE-B4376EA97C8C-
+
+CCpResource iCarouselMac/en.lproj/Credits.rtf build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+s352424610.343636
+e352424610.351239
+r1
+xCpResource
+xiCarouselMac/en.lproj/Credits.rtf
+xbuild/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtfed0f58a29201b541^57ea59a29201b541^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^660"CpResource iCarouselMac/en.lproj/Credits.rtf build/Debug/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/en.lproj/Credits.rtf" "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Resources/en.lproj"36"93AE383D-B3ED-43A3-848C-A36778428FE5-
+
+CLd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac" normal x86_64
+s352424609.015702
+e352424610.335421
+r1
+xLd
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac3a2104a19201b541^16de55a29201b541^---0#0#0#--987"Ld build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac normal x86_64    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk "-L/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" "-F/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" -filelist "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/Objects-normal/x86_64/iCarouselMac.LinkFileList" -mmacosx-version-min=10.6 -framework QuartzCore -framework Cocoa -o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/MacOS/iCarouselMac"36"748BC762-F46D-4D6C-846A-AEC892C69C40-
+
+CProcessInfoPlistFile "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Info.plist" iCarouselMac/iCarouselMac-Info.plist
+s352424607.848111
+e352424607.853091
+r1
+xProcessInfoPlistFile
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Info.plist
+xiCarouselMac/iCarouselMac-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process iCarouselMac/iCarouselMac-Info.plistfd2dd99f9201b541^1b64da9f9201b541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselMac-Info.plist0000000000000000^559"ProcessInfoPlistFile build/Debug/iCarouselMac.app/Contents/Info.plist iCarouselMac/iCarouselMac-Info.plist    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    builtin-infoPlistUtility iCarouselMac/iCarouselMac-Info.plist -genpkginfo "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app/Contents/Info.plist"36"44AA6896-8C39-43F5-BC69-44BEEDBBA73A-
+
+CProcessPCH /Users/localadmin/Library/Developer/Xcode/DerivedData/iCarouselMac-gejicdwbytcdzudesikwtqztkvzt/Index/PrecompiledHeaders/iCarouselMac-Prefix-abxyuktgyepdxkaxflebgbqoqsyo_ast/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352424607.867980
+e352424608.762949
+r1
+xProcessPCH
+x/var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.pth
+xiCarouselMac/iCarouselMac-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile iCarouselMac/iCarouselMac-Prefix.pch2978de9f9201b541^d74fc3a09201b541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselMac-Prefix.pch0000000000000000^3326"ProcessPCH /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/include" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources/x86_64" "-I/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/iCarouselMac.build/Debug/iCarouselMac.build/DerivedSources" "-F/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug" --serialize-diagnostics /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.dia -c "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/iCarouselMac/iCarouselMac-Prefix.pch" -o /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-dvcibprsyshnixgkkwffomifkdfd/iCarouselMac-Prefix.pch.d36"38D89660-A1F7-4CC3-865C-E273BE602A20-
+
+CTouch "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app"
+s352424610.996151
+e352424611.003571
+r1
+xTouch
+x/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app1118ffa29201b541^8eea00a39201b541^---0#0#0#--247"Touch build/Debug/iCarouselMac.app    cd "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo"    /usr/bin/touch -c "/Volumes/+10RAID2000/ServiceData/git/iCarousel2012/Examples/Basic Mac Demo/build/Debug/iCarouselMac.app"36"67F1150A-A7CD-45D8-9B0C-94B70DFA6C1E-
+

@@ -1,0 +1,303 @@
+TiCarouselMac
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Info.plist" iCarouselMac/iCarouselMac-Info.plist
+cProcessPCH /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.o "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o "/MaryGoAround/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac" normal x86_64
+cGenerateDSYMFile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app.dSYM" "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac"
+cCopyStringsFile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings" iCarouselMac/en.lproj/InfoPlist.strings
+cCpResource iCarouselMac/en.lproj/Credits.rtf build/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib"
+cCpResource iCarouselMac/../../Resources/background.png build/Release/iCarouselMac.app/Contents/Resources/background.png
+cCpResource iCarouselMac/../../Resources/page.png build/Release/iCarouselMac.app/Contents/Resources/page.png
+cTouch "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F90F72900000000000000CC
+t1334900521
+s204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004FD6C6C30000000000002470
+t1339475651
+s9328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004FD6C6C500000000000462F4
+t1339475653
+s287476
+
+N/MaryGoAround/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m
+c000000004F6E5150000000000000ED90
+t1332629840
+s60816
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app.dSYM
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Info.plist
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/PkgInfo
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/background.png
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/page.png
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMac.LinkFileList
+c000000004FEA45A20000000000000209
+t1340753314
+s521
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/../../Resources/background.png
+c000000004F6E4AD50000000000001A05
+t1332628181
+s6661
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/../../Resources/page.png
+c000000004F6E4AD50000000000001DCE
+t1332628181
+s7630
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/Credits.rtf
+c000000004F6E4AC600000000000001B4
+t1332628166
+s436
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/InfoPlist.strings
+c000000004F6E4AC6000000000000002D
+t1332628166
+s45
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib
+c000000004F6E4AC6000000000002D47D
+t1332628166
+s185469
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMac-Prefix.pch
+c000000004F6E4AC6000000000000009B
+t1332628166
+s155
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m
+c000000004F6E4AC6000000000000020C
+t1332628166
+s524
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m
+c000000004F6E4AC6000000000000167A
+t1332628166
+s5754
+
+N/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/main.m
+c000000004F6E4AC60000000000000104
+t1332628166
+s260
+
+N/var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.pth
+t2
+s0
+
+NiCarouselMac/iCarouselMac-Info.plist
+c000000004F6E4AC600000000000003E8
+t1332628166
+s1000
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies91635b227d9ab541^1557c1227d9ab541^---0#1#0#--18"Check dependencies36"E71105F7-A928-49A1-81BB-4A5C6D54F1FD-
+
+CCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o "/MaryGoAround/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362446119.123587
+e362446119.664070
+r1
+xCompileC
+xbuild/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o
+x/MaryGoAround/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /MaryGoAround/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m28d41f277d9ab541^c902aa277d9ab541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/../../iCarousel/iCarousel.m0000000000000000^2917"CompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o ../../iCarousel/iCarousel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/Release/include" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources/x86_64" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources" "-F/MaryGoAround/Examples/Basic Mac Demo/build/Release" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.d" --serialize-diagnostics "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.dia" -c "/MaryGoAround/Examples/Basic Mac Demo/../../iCarousel/iCarousel.m" -o "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarousel.o"36"B976ABF5-4333-4317-9A08-4CE169B1BD33-
+
+CCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362446119.122891
+e362446119.309589
+r1
+xCompileC
+xbuild/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o
+x/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m87a31f277d9ab541^cc424f277d9ab541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselMacAppDelegate.m0000000000000000^2995"CompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o iCarouselMac/iCarouselMacAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/Release/include" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources/x86_64" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources" "-F/MaryGoAround/Examples/Basic Mac Demo/build/Release" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.d" --serialize-diagnostics "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.dia" -c "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMacAppDelegate.m" -o "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMacAppDelegate.o"36"3F7741A7-AED8-4BB7-8557-A0A51985346A-
+
+CCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362446119.123463
+e362446119.406547
+r1
+xCompileC
+xbuild/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o
+x/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m05c51f277d9ab541^9d1268277d9ab541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselWindowController.m0000000000000000^3007"CompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o iCarouselMac/iCarouselWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/Release/include" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources/x86_64" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources" "-F/MaryGoAround/Examples/Basic Mac Demo/build/Release" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.d" --serialize-diagnostics "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.dia" -c "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselWindowController.m" -o "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselWindowController.o"36"F97A61B9-56CA-4CFB-B73E-3234E868FFAD-
+
+CCompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.o "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362446119.122907
+e362446119.300829
+r1
+xCompileC
+xbuild/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.o
+x/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/main.ma0a51f277d9ab541^25064d277d9ab541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/main.m0000000000000000^2881"CompileC build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.o iCarouselMac/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/Release/include" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources/x86_64" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources" "-F/MaryGoAround/Examples/Basic Mac Demo/build/Release" -include /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch -MMD -MT dependencies -MF "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.dia" -c "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/main.m" -o "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/main.o"36"8A6547B4-4D1C-47E6-BA74-E8508131ED3D-
+
+CCompileXIB "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib"
+s362446120.042629
+e362446120.934346
+r1
+xCompileXIB
+x/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compiling /MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib44180b287d9ab541^0133ef287d9ab541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/en.lproj/MainMenu.xib0000000000000000^613"CompileXIB iCarouselMac/en.lproj/MainMenu.xib    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/MainMenu.nib" "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk36"8C6BDBB8-8B81-43D8-94D7-6997F8C52E19-
+
+CCopyStringsFile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings" iCarouselMac/en.lproj/InfoPlist.strings
+s362446120.042061
+e362446120.051519
+r1
+xCopyStringsFile
+x/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings
+xiCarouselMac/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy iCarouselMac/en.lproj/InfoPlist.strings6de40a287d9ab541^52490d287d9ab541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/en.lproj/InfoPlist.strings0000000000000000^412"CopyStringsFile build/Release/iCarouselMac.app/Contents/Resources/en.lproj/InfoPlist.strings iCarouselMac/en.lproj/InfoPlist.strings    cd "/MaryGoAround/Examples/Basic Mac Demo"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj" -- iCarouselMac/en.lproj/InfoPlist.strings36"B4EC9BE6-7FA6-44D9-A32A-0407BB8CBF5C-
+
+CCpResource iCarouselMac/../../Resources/background.png build/Release/iCarouselMac.app/Contents/Resources/background.png
+s362446120.042652
+e362446120.051262
+r1
+xCpResource
+xiCarouselMac/../../Resources/background.png
+xbuild/Release/iCarouselMac.app/Contents/Resources/background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Release/iCarouselMac.app/Contents/Resources/background.pnge8150b287d9ab541^42410d287d9ab541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/build/Release/iCarouselMac.app/Contents/Resources/background.png000000000080d041^579"CpResource iCarouselMac/../../Resources/background.png build/Release/iCarouselMac.app/Contents/Resources/background.png    cd "/MaryGoAround/Examples/Basic Mac Demo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/../../Resources/background.png" "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources"36"2E7B78D6-53E7-4167-B634-B91A86723751-
+
+CCpResource iCarouselMac/../../Resources/page.png build/Release/iCarouselMac.app/Contents/Resources/page.png
+s362446120.042893
+e362446120.053660
+r1
+xCpResource
+xiCarouselMac/../../Resources/page.png
+xbuild/Release/iCarouselMac.app/Contents/Resources/page.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release/iCarouselMac.app/Contents/Resources/page.png57270b287d9ab541^1bbe0d287d9ab541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/build/Release/iCarouselMac.app/Contents/Resources/page.png000000000080d041^561"CpResource iCarouselMac/../../Resources/page.png build/Release/iCarouselMac.app/Contents/Resources/page.png    cd "/MaryGoAround/Examples/Basic Mac Demo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/../../Resources/page.png" "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources"36"BF21E392-5744-4EC1-8CAF-D13C9813C613-
+
+CCpResource iCarouselMac/en.lproj/Credits.rtf build/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+s362446120.042597
+e362446120.053640
+r1
+xCpResource
+xiCarouselMac/en.lproj/Credits.rtf
+xbuild/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy build/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf5f250b287d9ab541^cdcb0d287d9ab541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^574"CpResource iCarouselMac/en.lproj/Credits.rtf build/Release/iCarouselMac.app/Contents/Resources/en.lproj/Credits.rtf    cd "/MaryGoAround/Examples/Basic Mac Demo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/en.lproj/Credits.rtf" "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Resources/en.lproj"36"0677861D-5FE3-4A1B-8F45-6843DAE26FDE-
+
+CGenerateDSYMFile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app.dSYM" "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac"
+s362446119.990411
+e362446120.033922
+r1
+xGenerateDSYMFile
+x/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app.dSYM
+x/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Generating /MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app.dSYM83a6fd277d9ab541^00ae08287d9ab541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/build/Release/iCarouselMac.app.dSYM000000000080d041^401"GenerateDSYMFile build/Release/iCarouselMac.app.dSYM build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac    cd "/MaryGoAround/Examples/Basic Mac Demo"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac" -o "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app.dSYM"36"ADE723CA-1267-4897-9949-C63B525FDE46-
+
+CLd "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac" normal x86_64
+s362446119.670924
+e362446119.983826
+r1
+xLd
+x/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMacf8e2ab277d9ab541^83defb277d9ab541^---0#0#0#--812"Ld build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac normal x86_64    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk "-L/MaryGoAround/Examples/Basic Mac Demo/build/Release" "-F/MaryGoAround/Examples/Basic Mac Demo/build/Release" -filelist "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/Objects-normal/x86_64/iCarouselMac.LinkFileList" -mmacosx-version-min=10.6 -framework QuartzCore -framework Cocoa -o "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/MacOS/iCarouselMac"36"616F4D0F-5C6E-42CC-ACFA-C4752F416011-
+
+CProcessInfoPlistFile "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Info.plist" iCarouselMac/iCarouselMac-Info.plist
+s362446114.772798
+e362446114.782691
+r1
+xProcessInfoPlistFile
+x/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Info.plist
+xiCarouselMac/iCarouselMac-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process iCarouselMac/iCarouselMac-Info.plist5914c6227d9ab541^3e5ec8227d9ab541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselMac-Info.plist0000000000000000^454"ProcessInfoPlistFile build/Release/iCarouselMac.app/Contents/Info.plist iCarouselMac/iCarouselMac-Info.plist    cd "/MaryGoAround/Examples/Basic Mac Demo"    builtin-infoPlistUtility iCarouselMac/iCarouselMac-Info.plist -genpkginfo "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app/Contents/Info.plist"36"0E2AC4A0-42B2-4571-8920-6E6E5FB4B845-
+
+CProcessPCH /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362446114.790900
+e362446119.115972
+r1
+xProcessPCH
+x/var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.pth
+xiCarouselMac/iCarouselMac-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile iCarouselMac/iCarouselMac-Prefix.pch75b0ca227d9ab541^64b11d277d9ab541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/MaryGoAround/Examples/Basic%20Mac%20Demo/iCarouselMac/iCarouselMac-Prefix.pch0000000000000000^2984"ProcessPCH /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.pth iCarouselMac/iCarouselMac-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/MaryGoAround/Examples/Basic Mac Demo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-generated-files.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-own-target-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-all-target-headers.hmap" -iquote "/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/iCarouselMac-project-headers.hmap" "-I/MaryGoAround/Examples/Basic Mac Demo/build/Release/include" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources/x86_64" "-I/MaryGoAround/Examples/Basic Mac Demo/build/iCarouselMac.build/Release/iCarouselMac.build/DerivedSources" "-F/MaryGoAround/Examples/Basic Mac Demo/build/Release" --serialize-diagnostics /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.dia -c "/MaryGoAround/Examples/Basic Mac Demo/iCarouselMac/iCarouselMac-Prefix.pch" -o /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/8s/88drj2793gq13tktf8d6pcd40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iCarouselMac-Prefix-gfrcdbfblrgadkddthnyuxxiacml/iCarouselMac-Prefix.pch.d36"F5093A79-C382-4674-A42E-95F8C518CB0F-
+
+CTouch "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app"
+s362446120.944717
+e362446120.954306
+r1
+xTouch
+x/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Touch /MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app0610f2287d9ab541^a54ef4287d9ab541^---0#0#0#--177"Touch build/Release/iCarouselMac.app    cd "/MaryGoAround/Examples/Basic Mac Demo"    /usr/bin/touch -c "/MaryGoAround/Examples/Basic Mac Demo/build/Release/iCarouselMac.app"36"234C94F6-D548-421F-9DA4-D3E079EF83FB-
+

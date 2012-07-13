@@ -1,5 +1,5 @@
 //  iCarouselWindowController.m
-
+#import "DBXObject.h"
 #import "iCarouselWindowController.h"
 //#define NUMBER_OF_ITEMS 19 //#define NUMBER_OF_VISIBLE_ITEMS 19
 #define ITEM_SPACING 128
@@ -17,7 +17,8 @@
 
 - (id)initWithWindow:(NSWindow *)awindow {    if ((self = [super initWithWindow:window])) { //set up data
 
-	wrap = YES;    	dbx = [[DBXInit alloc]initWithIconSize:100];
+	wrap = YES;    	
+	dbx = [DBXObject sharedInstance]; // BXInit alloc]initWithIconSize:100];
 	items = [NSMutableArray arrayWithArray:dbx.appArray];
 	[self setNumberOfItemsInCarousel:[dbx.appArray count]];
 	[self setNumberOfVisibleItemsInCarousel:[dbx.appArray count]];
@@ -51,33 +52,33 @@
 	} return self;
 }
 
--(void) displayColorsForApp:(DBXApp *)app {		
-		
-	int totes, eligibleBachelors = 0;
-	for (NSNumber *aNumber in app.counts) {		if (aNumber.intValue < 40) continue;	else {	totes += aNumber.intValue;	eligibleBachelors++; 
-	}
-	float buttWidth = (screen.size.width / eligibleBachelors);
-	NSLog(@"ButtonWidth: %f", buttWidth);
-	NSRect wellFrame =	NSMakeRect(0.0,0.0,buttWidth, 50.0);
-	for ( int k = 0; k < eligibleBachelors; k++) {	
-		NSView *new = [[NSView alloc] initWithFrame:wellFrame];
-		CALayer *swatch = [CALayer layer];
-		swatch.frame = NSRectToCGRect(wellFrame);
-		[swatch setBackgroundColor:[app cgColorAtIndex:k]];
-		[new setLayer:swatch];	[new setWantsLayer:YES];
-		[colorBar addSubview:new];
-//		NSLog(@"Computed cgcolor %@ from %@", [app cgColorAtIndex:k], [app.hexes objectAtIndex:k]);
-		wellFrame.origin.x += buttWidth;
-	}
-	[colorBarLayer setNeedsDisplay];
-	}
-}
+//-(void) displayColorsForApp:(DBXApp *)app {		
+//		
+//	int totes, eligibleBachelors = 0;
+//	for (NSNumber *aNumber in app.counts) {		if (aNumber.intValue < 40) continue;	else {	totes += aNumber.intValue;	eligibleBachelors++; 
+//	}
+//	float buttWidth = (screen.size.width / eligibleBachelors);
+//	NSLog(@"ButtonWidth: %f", buttWidth);
+//	NSRect wellFrame =	NSMakeRect(0.0,0.0,buttWidth, 50.0);
+//	for ( int k = 0; k < eligibleBachelors; k++) {	
+//		NSView *new = [[NSView alloc] initWithFrame:wellFrame];
+//		CALayer *swatch = [CALayer layer];
+//		swatch.frame = NSRectToCGRect(wellFrame);
+//		[swatch setBackgroundColor:[app cgColorAtIndex:k]];
+//		[new setLayer:swatch];	[new setWantsLayer:YES];
+//		[colorBar addSubview:new];
+////		NSLog(@"Computed cgcolor %@ from %@", [app cgColorAtIndex:k], [app.hexes objectAtIndex:k]);
+//		wellFrame.origin.x += buttWidth;
+//	}
+//	[colorBarLayer setNeedsDisplay];
+//	}
+//}
 
 - (void)carouselCurrentItemIndexUpdated:(iCarousel *)_carousel{
 	
 	DBXApp *app = [dbx.appArray objectAtIndex:_carousel.currentItemIndex];
-	[self spellItOut:app.cuteName];
-	[self displayColorsForApp:app];
+//	[self spellItOut:app.cuteName];
+//	[self displayColorsForApp:app];
 }	
 //	NSLog(@"Carousel index %ld: %@, view: %@. subvies: %@, layer...%@ abd sublayers..%@", _carousel.currentItemIndex, app.cuteName, mainC, mainC.subviews, mainC.layer, mainC.layer.sublayers);	
 //	NSDictionary *diction = [NSDictionary dictionaryWithObjectsAndKeys:

@@ -8,13 +8,14 @@
 
 #import <Cocoa/Cocoa.h>
 #import "iCarousel.h"
-#import "DBXInit.h"
+//#import "DBXInit.h"
 #import "NSColor+Hex.h"
 #import "LetterLayer.h"
 #import "NSColor+Additions.h"
 #import "XYPieChart.h"
 #import "SimpleView.h"
 #import "AMDarkButtonCell.h"
+#import "DBXObject.h"
 
 @interface iCarouselWindowController : NSWindowController  <iCarouselDataSource, iCarouselDelegate> {
 
@@ -37,7 +38,7 @@
     BOOL wrap;
     NSMutableArray *items;
 	
-	DBXInit *dbx;
+	DBXObject *dbx;
 	
 //arrival
 	

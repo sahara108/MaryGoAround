@@ -118,7 +118,7 @@
 	size = [[self superview] bounds].size;
 	
 	// Calculate random width and height
-	rect.size = NSMakeSize( SSRandomFloatBetween( size.width / 100.0, size.width / 10.0 ), SSRandomFloatBetween( size.height / 100.0, size.height / 10.0 ));
+	rect.size = NSMakeSize( `( size.width / 100.0, size.width / 10.0 ), SSRandomFloatBetween( size.height / 100.0, size.height / 10.0 ));
 	
 	// Calculate random origin point
 	rect.origin = NSRandomPointForSizeWithinRect( rect.size, [self bounds] );

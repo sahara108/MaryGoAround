@@ -53,7 +53,7 @@ iCarousel supports the following built-in display types:
 - iCarouselTypeTimeMachine
 - iCarouselTypeInvertedTimeMachine
 
-You can also implement your own bespoke carousel styles using `iCarouselTypeCustom` and the `carousel:itemTransformForOffset:baseTransform:` delegate method.
+You can also implement your own bespoke carousel styles using `iCarouselTypeCustom` and the `carousel:itemTransformForitemTransformForOffset:baseTransform:` delegate method.
 
 NOTE: The difference between `iCarouselTypeCoverFlow` and `iCarouselTypeCoverFlow2` types is quite subtle, however the logic for `iCarouselTypeCoverFlow2` is substantially more complex. If you flick the carousel they are basically identical, but if you drag the carousel slowly with your finger the difference should be apparent. `iCarouselTypeCoverFlow2` is designed to simulate the standard Apple CoverFlow effect as closely as possible and may change subtly in future in the interests of that goal.
 
